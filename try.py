@@ -1,6 +1,3 @@
-from tkinter import N
-from turtle import up
-from unicodedata import category
 from telegram.ext import *
 import responses
 
