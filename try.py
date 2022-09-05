@@ -1,6 +1,4 @@
-from turtle import up
 from telegram.ext import *
-import responses
 
 
 def help_command(update,context):
